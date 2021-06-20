@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1618482470 source:c:\users\pawan arekar\documents\huffmancoding\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"huffman.h"
+
+1618480967 c:\users\pawan arekar\documents\huffmancoding\huffman.h
+
+1618479941 source:c:\users\pawan arekar\documents\huffmancoding\main.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<stdlib.h>
+	"huffman.h"
+
+1613317829 source:c:\users\pawan arekar\documents\huffmancoding\frequency.c
+	<stdio.h>
+	"Frequency.h"
+	<stdlib.h>
+
+1613317818 c:\users\pawan arekar\documents\huffmancoding\frequency.h
+

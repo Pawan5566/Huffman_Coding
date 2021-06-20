@@ -1,0 +1,7 @@
+Init -> init_charfreq
+init -> init_tree
+inserT -> insert_tree
+initialize -> init_encode
+inseT -> insert_store
+initS -> init_store
+Insert -> insert_charfreq

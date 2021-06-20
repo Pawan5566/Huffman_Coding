@@ -1,0 +1,2 @@
+layer adds its header, it passes the message constructed so far down to the Internet layer. The Internet layer adds its own IP header to be able to deliver this packet to the correct destination IP by advancing hop to hop. The TCP header melds into what now becomes
+the
